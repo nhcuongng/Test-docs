@@ -92,7 +92,7 @@ jobs:
         run: yarn install
       - name: Release
         env:
-          NPM_TOKEN: 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
+          NPM_TOKEN: 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
           GITHUB_TOKEN: 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
         run: yarn release
 
