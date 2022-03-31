@@ -1,6 +1,6 @@
 {
   "name": "luklak-docs-template",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "JSdoc theme",
   "repository": "github:nhcuongng/Test-docs",
   "main": "publish.js",
