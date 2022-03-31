@@ -698,5 +698,3 @@ We're an open, friendly team that helps clients from all over the world to trans
 
 * We are available for [hire](https://softwarebrothers.co/contact).
 * If you want to work for us - check out the [career page](https://softwarebrothers.co/career).
-
-aaa
