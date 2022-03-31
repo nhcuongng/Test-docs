@@ -93,6 +93,6 @@ jobs:
       - name: Release
         env:
           NPM_TOKEN: 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
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
         run: yarn release
 
