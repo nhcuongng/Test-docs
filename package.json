@@ -2,6 +2,7 @@
   "name": "luklak-docs-template",
   "version": "1.0.0",
   "description": "JSdoc theme",
+  "repository": "github:nhcuongng/Test-docs",
   "main": "publish.js",
   "scripts": {
     "gulp": "./node_modules/.bin/gulp",

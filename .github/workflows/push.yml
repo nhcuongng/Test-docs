@@ -65,7 +65,7 @@ jobs:
           status: ${{ env.WORKFLOW_CONCLUSION }}
           fields: repo,message,commit,author,action,eventName,ref,workflow # selectable (default: repo,message)
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: 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
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         if: always()
 
